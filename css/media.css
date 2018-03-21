@@ -1,0 +1,123 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	.about{
+		padding: 60px 0 60px;
+	}
+	.images-down{
+		margin-top: 50px;
+		text-align: center;
+		margin-bottom: 0px;
+	}
+	.food-images{
+		text-align: center;
+		margin-bottom: 0px;
+	}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.about{
+		padding: 60px 0 60px;
+	}
+	.history{
+		text-align: center;
+	}
+	.images-down{
+		margin-top: 50px;
+		text-align: center;
+		margin-bottom: 0px;
+	}
+	.food-images{
+		text-align: center;
+		margin-bottom: 0px;
+	}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+	.book{
+		margin-top: 30px;
+	}
+	.phone__text {
+	text-align: center;
+	width: 100%;
+	}
+	.phone__digist{
+		margin-left: 0;
+		margin-top: 0;
+		text-align: center;
+	}
+	.history{
+		text-align: center;
+	}
+	.button{
+		display: flex;
+		justify-content: center;
+	}
+	.food-images{
+		margin-top: 3px;
+	}
+	.images-down{
+		margin-top: 30px;
+	}
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+	.button{
+		display: flex;
+		justify-content: center;
+	}
+	.phone__text {
+	text-align: center;
+	width: 100%;
+}
+	.phone__digist{
+		margin-left: 0;
+		margin-top: 0;
+		text-align: center;
+	}
+	.footer{
+		padding: 25px 50px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

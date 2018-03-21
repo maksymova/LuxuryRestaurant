@@ -1,0 +1,256 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: 'Sintony', sans-serif;
+	color: #5c6369;
+	padding: 0;
+	margin: 0;
+	
+}
+
+ul, li{
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	color: #14141d;
+}
+
+.yellow  {
+	color: #fea100;
+}
+
+p {
+	line-height: 1.8em;
+}
+
+#shr{
+	font-family: 'Playfair Display', serif;
+	font-size: 56px;
+
+}
+
+#green{
+	color: #264d00;
+	font-family: 'Playfair Display', serif;
+	font-size: 35px;
+}
+
+a.nav-link{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.cta {
+	background: #fea100;
+	color: #fff;
+	font-size: 14px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	padding: 13px 0;
+	display: block;
+	cursor: pointer;
+	width: 150px;
+	border-radius: 8px;
+	border: 0;
+	font-weight: 700;
+	margin-top: -5px;
+	text-align: center;
+}
+
+.cta:hover {
+	text-decoration: none;
+	color: #fff;
+}
+
+
+.book__icon{
+	background: url('../img/order.png');
+	width: 21px;
+	height: 17px;
+	display: block;
+	margin-right: 13px;
+}
+
+.main-header{
+	padding: 24px 0;
+}
+
+.call {
+	background: #edf1f3;
+	border-bottom: 1px solid #dde3e7;
+	padding: 30px 0;
+}
+
+.phone__text {
+	font-size: 14px;
+	color: #14141d;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-align: right;
+}
+
+.phone__digist{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	font-weight: 700;
+	color: #000;
+	text-align: left;
+}
+
+.about{
+	padding: 80px 0 80px;
+}
+
+
+.history__title {
+	font-size: 35px;
+	margin-bottom: 30px;
+}
+
+.history__text {
+	font-size: 14px;
+	margin-bottom: 38px;
+}
+
+.history_button {
+	margin-top: 48px;
+}
+
+.food-images {
+	margin-top: 50px;
+	max-width: 100%;
+}
+
+.food-images__item{
+	margin-bottom: 10px;
+
+}
+
+.food__img{
+	width: 100%;
+}
+
+.images-down {
+	margin-top: 100px;
+	margin-bottom: 83px;
+}
+
+.special {
+	background: url('../img/third-bg.jpg') no-repeat center top;
+	padding-top: 80px;
+}
+
+.special-title {
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.food {
+	box-shadow: 0 20px 30px rgba(0, 0, 0, 0.15);
+	margin-bottom: 100px;
+}
+
+.food-title {
+	text-align: center;
+	margin-top: 45px;
+	font-size: 26px;
+	margin-bottom: 15px;
+}
+
+.food-text {
+	font-size: 13px;
+	text-align: center;
+	margin-bottom: 55px;
+	padding: 0 55px;
+}
+
+.food__details {
+	border-top: 1px solid #e1e1e1;
+	margin: 0 45px;
+	margin-bottom: 25px;
+}
+
+.home-del {
+	text-transform: uppercase;
+	text-align: left;
+	width: 78px;
+	margin-top: 23px;
+	font-weight: 700;
+	font-size: 13px;
+	border-right: 1px solid #e1e1e1;
+}
+
+.food__details span {
+	color: #fe6d9f;
+}
+
+.home-tel {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	width: 300px;
+	text-align: center;
+	font-size: 26px;
+	color: #000;
+	margin-top: 23px;
+}
+
+.home-price {
+	font-family: 'Playfair Display', serif;
+	font-size: 30px; 
+	margin-top: 23px;
+	width: 90px;
+}
+
+.footer {
+	background: #373844;
+	color: #93989e;
+	font-size: 13px;
+	text-transform: uppercase;
+	padding: 25px 106px;
+}
+
+.social__item a{
+	width: 52px;
+	height: 52px;
+	border-radius: 50%;
+	display: block;
+
+}
+
+.social__item__fb{
+	background: #3b5998 url('../img/fb.png') no-repeat center center;
+	border-radius: 50%;
+}
+
+.social__item__tw{
+	background: #55acee url('../img/tw.png') no-repeat center center;
+	border-radius: 50%;
+	margin: 0 7px;
+}
+
+.social__item__g{
+	background: #dd4b39 url('../img/g.png') no-repeat center center;
+	border-radius: 50%;
+}
+
+.line{
+	background: #52535e;
+	height: 1px;
+	margin-top: 25px;
+}
+
+.text__footer{
+	text-align: center;
+	margin-top: 25px;
+}
+
